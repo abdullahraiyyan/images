@@ -1,0 +1,119 @@
+[
+  {
+    "Name": "Baboon",
+    "Location": "Africa & Asia",
+    "Details": "Baboons are African and Arabian Old World monkeys belonging to the genus Papio, part of the subfamily Cercopithecinae.",
+    "Image": "https://lh4.googleusercontent.com/ITTinFpjxRSyAXU-5PC6CqWeJ8R4panoCHZGMiSemVCk7NYd4660RMaQBOOET9LhPYQ=w2400",
+    "Population": 10000,
+    "Latitude": -8.783195,
+    "Longitude": 34.508523
+  },
+  {
+    "Name": "Capuchin Monkey",
+    "Location": "Central & South America",
+    "Details": "The capuchin monkeys are New World monkeys of the subfamily Cebinae. Prior to 2011, the subfamily contained only a single genus, Cebus.",
+    "Image": "https://lh6.googleusercontent.com/TxGoL8CQpXHxi5aOKELnj8PLKzLeCNmYqxE1uibJVyXwDFG5HffqMbMqpkYWsPILq5Y=w2400",
+    "Population": 23000,
+    "Latitude": 12.769013,
+    "Longitude": -85.602364
+  },
+  {
+    "Name": "Blue Monkey",
+    "Location": "Central and East Africa",
+    "Details": "The blue monkey or diademed monkey is a species of Old World monkey native to Central and East Africa, ranging from the upper Congo River basin east to the East African Rift and south to northern Angola and Zambia",
+    "Image": "https://lh3.googleusercontent.com/7geQk8imoWb2CRCNsqIanfy0uMdWRBXpRUiR1qSMg_zKhmwFvmRGlAztysBAhKSuV5o=w2400",
+    "Population": 12000,
+    "Latitude": 1.957709,
+    "Longitude": 37.297204
+  },
+  {
+    "Name": "Squirrel Monkey",
+    "Location": "Central & South America",
+    "Details": "The squirrel monkeys are the New World monkeys of the genus Saimiri. They are the only genus in the subfamily Saimirinae. The name of the genus Saimiri is of Tupi origin, and was also used as an English name by early researchers.",
+    "Image": "https://lh3.googleusercontent.com/6w-09hDM7BlEm4Ix7CLeHsaexqQ0FCWgQTpeSMxCs0KKlNzLFBTVLbmHq6sLce5crI4=w2400",
+    "Population": 11000,
+    "Latitude": -8.783195,
+    "Longitude": -55.491477
+  },
+  {
+    "Name": "Golden Lion Tamarin",
+    "Location": "Brazil",
+    "Details": "The golden lion tamarin also known as the golden marmoset, is a small New World monkey of the family Callitrichidae.",
+    "Image": "https://lh4.googleusercontent.com/oXrcOKWONHYYKuyC9Gi4_TDA1Nu9Asx9Urt6fVuXAQuoAVqdL09WIFoyjKDz_90rTGs=w2400",
+    "Population": 19000,
+    "Latitude": -14.235004,
+    "Longitude": -51.92528
+  },
+  {
+    "Name": "Howler Monkey",
+    "Location": "South America",
+    "Details": "Howler monkeys are among the largest of the New World monkeys. Fifteen species are currently recognised. Previously classified in the family Cebidae, they are now placed in the family Atelidae.",
+    "Image": "https://lh5.googleusercontent.com/k-9WBUNWzVBwDMmIwfnlYWuSA5jf3Ab7xL7dw_WhvUKuWRTLEQEhBL1RNJu9UMftVMg=w2400",
+    "Population": 8000,
+    "Latitude": -8.783195,
+    "Longitude": -55.491477
+  },
+  {
+    "Name": "Japanese Macaque",
+    "Location": "Japan",
+    "Details": "The Japanese macaque, is a terrestrial Old World monkey species native to Japan. They are also sometimes known as the snow monkey because they live in areas where snow covers the ground for months each",
+    "Image": "https://lh6.googleusercontent.com/sW4-2IEPYAAhPM_oIxDtJhfXXM7yIEU5wW1PQUjL4aQLE4p8DSZ29w0bmtuwIhBEiVg=w2400",
+    "Population": 1000,
+    "Latitude": 36.204824,
+    "Longitude": 138.252924
+  },
+  {
+    "Name": "Mandrill",
+    "Location": "Southern Cameroon, Gabon, and Congo",
+    "Details": "The mandrill is a primate of the Old World monkey family, closely related to the baboons and even more closely to the drill. It is found in southern Cameroon, Gabon, Equatorial Guinea, and Congo.",
+    "Image": "https://lh6.googleusercontent.com/hkn1ljQL3KHT98G-srbk3U9ytXLa9wSBuc9klNPhU723N2YCFT9olXlfgHHIFZ1eAOw=w2400",
+    "Population": 17000,
+    "Latitude": 7.369722,
+    "Longitude": 12.354722
+  },
+  {
+    "Name": "Proboscis Monkey",
+    "Location": "Borneo",
+    "Details": "The proboscis monkey or long-nosed monkey, known as the bekantan in Malay, is a reddish-brown arboreal Old World monkey that is endemic to the south-east Asian island of Borneo.",
+    "Image": "https://lh5.googleusercontent.com/ICyuN-xwowthb4Xq0unah8ERA3flaQNXn649D6YZ8MxmiduFuv3ZEqNT-6P3A_1zDoQ=w2400",
+    "Population": 15000,
+    "Latitude": 0.961883,
+    "Longitude": 114.55485
+  },
+  {
+    "Name": "Sebastian",
+    "Location": "Seattle",
+    "Details": "This little trouble maker lives in Seattle with James and loves traveling on adventures with James and tweeting @MotzMonkeys. He by far is an Android fanboy and is getting ready for the new Nexus 6P!",
+    "Image": "https://lh6.googleusercontent.com/Vx2li-xBJ_ipgIgPQaTdvg-THwLqLJQO3KxM-Cc7Z7TrStOqcu5w3cd7djizCzLP18o=w2400",
+    "Population": 1,
+    "Latitude": 47.606209,
+    "Longitude": -122.332071
+  },
+  {
+    "Name": "Henry",
+    "Location": "Phoenix",
+    "Details": "An adorable Monkey who is traveling the world with Heather and live tweets his adventures @MotzMonkeys. His favorite platform is iOS by far and is excited for the new iPhone Xs!",
+    "Image": "https://lh5.googleusercontent.com/dZXSS-U8vhWmx2aTAKb1rN3he6TKPOjZXFqf8uAaEUKB870dGyHGUDrA9iisZlV_ABc=w2400",
+    "Population": 1,
+    "Latitude": 33.448377,
+    "Longitude": -112.074037
+  },
+  {
+    "Name": "Red-shanked douc",
+    "Location": "Vietnam",
+    "Details": "The red-shanked douc is a species of Old World monkey, among the most colourful of all primates. The douc is an arboreal and diurnal monkey that eats and sleeps in the trees of the forest.",
+    "Image": "https://lh3.googleusercontent.com/xSRK6NZh-J578z_aCxpAMi9VvzL2CMBLHxreU18Pf8F9qCy2ICjnxWFfKVYv4vjUWMI=w2400",
+    "Population": 1300,
+    "Latitude": 16.111648,
+    "Longitude": 108.262122
+  },
+  {
+    "Name": "Mooch",
+    "Location": "Seattle",
+    "Details": "An adorable Monkey who is traveling the world with Heather and live tweets his adventures @MotzMonkeys. His favorite platform is iOS by far and is excited for the new iPhone 6s!",
+    "Image": "https://lh5.googleusercontent.com/irom8I5JTZHKd6rRNhU6jaOUvKoiYxjNZNvrTXB1hkkwd7NCzL_U4d9M_5rX3vSm-PY=w2400",
+    "Population": 1,
+    "Latitude": 47.608013,
+    "Longitude": -122.335167
+  }
+]
